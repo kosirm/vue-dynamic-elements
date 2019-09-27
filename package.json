@@ -1,0 +1,11 @@
+{
+  "name": "advanced-vue-instantiation",
+  "version": "1.0.0",
+  "description": "Covers advanced manual Vue component instantiation \n• Provide/Inject\n• Setting parent\n• Passing styles",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "vue-router": "3.0.1",
+    "vue": "2.5.2"
+  }
+}
